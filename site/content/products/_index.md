@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: 玩过的项目
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
@@ -98,5 +98,9 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
+数据仓库
+协同过滤推荐
+数据挖掘
 
 
