@@ -1,10 +1,7 @@
 ---
 title: 行云流水写blog
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: 如何实现快速有效的内容输出.关键方法.
 image: /img/blog-chemex.jpg
 ---
 行云流水第一步
