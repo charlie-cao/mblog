@@ -21,3 +21,5 @@ control + shift + G 切换到git 提交
 输入要提交的内容
 command + enter 提交当前修改
 F1 + git推送 
+
+第四步,能不能编辑个宏命令把这一套瞬间完成?
