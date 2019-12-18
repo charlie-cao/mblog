@@ -1,11 +1,12 @@
 ---
-title: '新的blog写法'
+title: '本Blog创建目的.'
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  用blog来记录自己的成长.
+description: 用blog来记录自己的成长.
 ---
 
-使用md编辑器编辑,使用git上传,使用github托管,使用netify发送内容.
+1. 使用vscode编辑
+2. 使用github托管
+3. 使用netify发布
 
-> 访问的路径在https://blog918.netlify.com/post/
+> 站点 https://blog918.netlify.com/post/
 
