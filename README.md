@@ -1,8 +1,10 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# 使用hugo自动化发布到netlify的blog
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+使用基本模版发布
 
 ## Getting started
+
+站点路径: https://blog918.netlify.com/post/
 
 Use our deploy button to get your own copy of the repository. 
 
