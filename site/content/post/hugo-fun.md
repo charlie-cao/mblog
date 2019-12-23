@@ -27,3 +27,5 @@ index .Site.Data.s (.Params.data_file) 获取页面参数中的data_file中的�
 
 first 10 (sort ( where (index .Site.Data.s (.Params.data_file)).teams "rating" ">" "4") "score" "desc") 获取前10条 limit
 10
+
+range $index, $element := first 10 (sort ( where (index .Site.Data.s (.Params.data_file)).teams "rating" ">" "4") "score" "desc") 遍历结果 获得 $index 和 $element 类似 foreach($datas as $key=>$data){}
