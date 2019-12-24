@@ -19,3 +19,23 @@ description: 快速测试 Hadoop HDFS Hive HBase Spark Flink Kylin Kafka Superse
 6. 数据仓库.
 7. 人工智能.
 8. 区块链.
+
+埋点系统数据结构.
+用户UUID
+区号
+渠道大号
+渠道小号
+设备类型
+行为状态
+日期
+
+流运算统计的目标数据
+
+新增
+日活
+留存
+
+7日系列
+
+30日系列
+
