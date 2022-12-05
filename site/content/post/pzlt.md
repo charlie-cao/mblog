@@ -21,7 +21,8 @@ description: 破执利他
 [php]
 
 
-
+还有要会要会包装和营销自己
+比如linkin和facebook之类App
 
 ----------------
 英语也很重要
